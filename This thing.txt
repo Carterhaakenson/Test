@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>John Doe's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>John Doe</h1>
+        <p>Web Developer</p>
+    </div>
+
+    <div class="contact-info">
+        <p>Email: john@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></p>
+        <p>GitHub: <a href="https://github.com/johndoe" target="_blank">github.com/johndoe</a></p>
+        <p>Location: New York, NY</p>
+    </div>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <p>A highly motivated web developer with 5 years of experience creating and implementing innovative web solutions. Skilled in front-end and back-end development, with a strong focus on user experience and responsive design.</p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <h3>Senior Web Developer - XYZ Tech</h3>
+        <p>May 2020 - Present</p>
+        <ul>
+            <li>Developed and maintained web applications using HTML, CSS, JavaScript, and React.</li>
+            <li>Collaborated with cross-functional teams to deliver high-quality projects on time and within budget.</li>
+            <li>Implemented responsive designs for mobile and tablet devices.</li>
+        </ul>
+
+        <h3>Web Developer - ABC Web Services</h3>
+        <p>January 2017 - April 2020</p>
+        <ul>
+            <li>Designed and developed user-friendly interfaces for various clients using HTML, CSS, and JavaScript.</li>
+            <li>Optimized website performance through code optimization and speed enhancements.</li>
+            <li>Collaborated with clients to gather requirements and provide technical guidance.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <h3>Bachelor of Science in Computer Science</h3>
+        <p>University of Example, 2016</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>React, Node.js</li>
+            <li>Responsive Web Design</li>
+            <li>Version Control (Git)</li>
+            <li>Agile Development</li>
+        </ul>
+    </div>
+</body>
+</html>
